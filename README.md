@@ -28,9 +28,11 @@ This is a Repository that includes the material and labs required for Assignment
 
 * [Lab 4](Lab4/Lab4\_Challenges.ipynb)
 
-* [Lab 5]
+* [Lab 5 (1-6)](Lab5/Lab5Challenge1to6.ipynb)
 
-* [Lab 6]
+* [Lab 5 (7)](Lab5/Lab5\_Challenge7.ipynb)
+
+* [Lab 6](Lab6/Lab6\_Challenge.ipynb)
 
 
 
