@@ -27,6 +27,7 @@ This is a Repository that includes the material and labs required for Assignment
 
 
 * [Lab 4](Lab4/Lab4\_Challenges.ipynb)
+* [Link to Lab 4 Challenge 1](https://uostandrews.maps.arcgis.com/home/item.html?id=487a18e5f504430d8793e2bd12c08fdc#overview)
 
 * [Lab 5 (1-6)](Lab5/Lab5Challenge1to6.ipynb)
 
